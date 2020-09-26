@@ -24,4 +24,4 @@ __Contact me:__
 - Amir Shokri
 - Amirsh.nll@gmail.com
 - https://github.com/amirshnll/Heterogeneous-fuzzy-XML-data-integration
-- https://ashokri.com/?p=263&preview=true
+- https://ashokri.com/heterogeneous-fuzzy-xml-data-integration/

@@ -18,10 +18,3 @@ Received 23 February 2017; received in revised form 6 April 2018; accepted 30 Ap
 __my work:__
 
 translate this article to persian(farsi)
-
-__Contact me:__
-
-- Amir Shokri
-- Amirsh.nll@gmail.com
-- https://github.com/amirshnll/Heterogeneous-fuzzy-XML-data-integration
-- https://ashokri.com/heterogeneous-fuzzy-xml-data-integration/
